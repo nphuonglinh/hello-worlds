@@ -1,0 +1,48 @@
+{
+  "name": "pl-hello-glados",
+  "version": "1.0.2",
+  "description": "glados says hello world",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nphuonglinh/hello-worlds.git",
+    "directory": "hellos/hello-glados"
+  },
+  "main": "index.js",
+  "author": "phuonglinh",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "pl-hello-armadillo": "^1.0.0",
+    "pl-hello-banana": "^1.0.0",
+    "pl-hello-bearface": "^1.0.0",
+    "pl-hello-bees": "^1.0.0",
+    "pl-hello-biohazard": "^1.0.0",
+    "pl-hello-bishop": "^1.0.0",
+    "pl-hello-box": "^1.0.0",
+    "pl-hello-bunny": "^1.0.0",
+    "pl-hello-cake": "^1.0.0",
+    "pl-hello-cat": "^1.0.0",
+    "pl-hello-charlie": "^1.0.0",
+    "pl-hello-cheese": "^1.0.0",
+    "pl-hello-chessmen": "^1.0.0",
+    "pl-hello-chito": "^1.0.0",
+    "pl-hello-clippy": "^1.0.0",
+    "pl-hello-cower": "^1.0.0",
+    "pl-hello-cube": "^1.0.0",
+    "pl-hello-daemon": "^1.0.0",
+    "pl-hello-dalek": "^1.0.0",
+    "pl-hello-doge": "^1.0.0",
+    "pl-hello-dolphin": "^1.0.0",
+    "pl-hello-dragon": "^1.0.0",
+    "pl-hello-elephant": "^1.0.0",
+    "pl-hello-explosion": "^1.0.0",
+    "pl-hello-eyes": "^1.0.0",
+    "pl-hello-fence": "^1.0.0",
+    "pl-hello-fire": "^1.0.0",
+    "pl-hello-fox": "^1.0.0",
+    "pl-hello-ghost": "^1.0.0"
+  }
+}
